@@ -1,4 +1,4 @@
-baseURL = "https://firedonkey.github.io/garylu.github.io/"
+baseURL = "https://firedonkey.github.io/blog"
 languageCode = 'en-us'
 title = 'My New Hugo Project'
 theme = "PaperMod"
